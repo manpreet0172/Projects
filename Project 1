@@ -1,0 +1,43 @@
+Key functionalities of the web application include:
+
+Validation of documents: The system will validate submitted documents to ensure compliance with regulatory requirements.
+
+Blacklisting: Capability to blacklist pharmacies based on predefined criteria.
+
+Approval process: Ability to review and approve new pharmacy registrations.
+
+Advanced accreditation process: Streamlined process for advanced accreditation requirements.
+
+E-signatures: Integration of e-signatures for authentication and authorization purposes.
+
+Additionally, the project includes the development of a web form for existing pharmacies to request updates to their profiles. This form will feature built-in validations and allow pharmacies to request changes such as address updates, email address changes, contact number modifications, and manager details adjustments. Upon submission, the updated information will be transmitted to Salesforce and seamlessly linked to the respective pharmacy's account for immediate management by the Pharmacy Team.
+
+Overall, this project aims to enhance efficiency, accuracy, and transparency in the registration and profile update processes for pharmacies, ultimately improving operational effectiveness and customer satisfaction.
+
+Contribution:
+
+·       Provide product development support by assisting in the development of Epics/Feature specifications, elaboration of user stories, analyze customer data, existing functionality, market behaviours for seamless development and delivery of the product. 
+
+·       Create and maintain a product backlog and continuously re-prioritize user stories to maximize business value using Weighted Shortest Job First (WSJF)
+
+·       Collaborate with various cross functional teams including the architecture team, UX/design team, development team and support team
+
+·       Partnered with Salesforce team to execute the project vision, strategy, features and prioritization of user stories.
+
+·       Work in an Agile environment by continuously reviewing the business needs, refining priorities, planning deliverables, and identifying opportunities and risks in a timely manner. 
+
+·       Advocate for the end-users and maintain a deep understanding of their needs and pain points. 
+
+·       Lead Agile ceremonies such as sprint planning, sprint review, demo and retrospectives to foster a culture of continuous improvement on feedback and changing priorities.
+
+·       Being a part of the Program Increment (PI) plan to work on a shared vision
+
+·       Continuously align with senior management on the product delivery roadmap and defined Minimum Marketable Features/Minimum Viable Products.
+
+·       Create a value-focused product backlog and continuously iterate ensuring the user stories are scoped and prioritized
+
+·       Proactively raised issues that impede the efficient delivery of customer-focused increments
+
+·       Help scrum master in tracking and reporting key performance indicators
+
+Collaborate with the testing team by conducting a review of their test cases and have been involved in user acceptance testing validating the features and ensuring product quality.
